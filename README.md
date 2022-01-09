@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @b1uef0x
+- 👋 Hi!
 - 👀 I’m interested in devops, web development, and systems admin/IaC.
 - 🌱 I’m currently learning systems programming.
 
